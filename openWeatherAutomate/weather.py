@@ -4,7 +4,7 @@ from PIL import Image, ImageFont, ImageDraw
 from datetime import date
 
 
-api_key= "761dbb0f3e03407e21ef902de54f9b2c"
+api_key= "**********************"
 india_list = ['Jhansi','Jaipur', 'Indore', 'Pune', 'Bengaluru']
 usa_list = ['New York','Chicago', 'San Francisco', 'Los Angeles', 'San Diego']
 
@@ -30,7 +30,7 @@ for country in country_list:
 
     index = 0
     for city in country:
-        url = "http://api.openweathermap.org/data/2.5/weather?q={}&appid=761dbb0f3e03407e21ef902de54f9b2c&units=metric".format(city)
+        url = "http://api.openweathermap.org/data/2.5/weather?q={}&appid=********&units=metric".format(city)
         response = requests.get(url)
         data = json.loads(response.text)
 
