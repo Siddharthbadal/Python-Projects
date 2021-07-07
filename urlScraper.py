@@ -12,6 +12,7 @@ def scraper():
     urlAddress = []
     urlName = []
     for link in soup.find_all('a', attrs={'href': re.compile("^http")}):
+        # ^http means fetching only those link which starts with http
             pprint.pprint(f"{link.string} ---> {link.get('href')}")
             urlName.append(link.string)
             urlAddress.append(link.get('href'))
