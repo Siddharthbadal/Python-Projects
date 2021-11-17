@@ -1,4 +1,4 @@
-### Stock profile Finder - CLI Project
+### Stock Profile Finder - CLI Project
 
 Stock details finder project in Python. 
 Modules Used
