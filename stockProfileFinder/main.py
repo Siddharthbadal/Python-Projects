@@ -16,7 +16,7 @@ print("""Program entirely dependent on API's reponse.
         Type "ratios" followed by ticker symbol for todays stock ratios.(ratios AAPL)
         Type "growth" followed by ticker symbol for todays stock last year growth.(growth AAPL)
      """)
-api_key = "5ef1d6fcc59afd748ac3e3363516fbbd"
+api_key = "**************************"
 
 
 
