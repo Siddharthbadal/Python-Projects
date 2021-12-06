@@ -1,3 +1,5 @@
+# Scrapes all url links from a page
+
 import requests
 from bs4 import BeautifulSoup
 import pprint
