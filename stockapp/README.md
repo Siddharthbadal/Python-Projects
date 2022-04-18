@@ -2,7 +2,7 @@
 
 This App show stock details of the entered ticker.
 	-	Compnay Profile
-	-   Income Statement Details
+	-   	Income Statement Details
 	-	EPS Chart
 	-	Company Current Quotes
 	
@@ -11,6 +11,6 @@ Modules Used:
 	- requests
 	- Flask
 	
-![img](https://github.com/Siddharthbadal/Python-Projects/blob/main/stockapp/image2.png)
+![img](https://github.com/Siddharthbadal/Python-Projects/blob/main/stockapp/images/image2.png)
 	
-![img](https://github.com/Siddharthbadal/Python-Projects/blob/main/stockapp/image1.png)
+![img](https://github.com/Siddharthbadal/Python-Projects/blob/main/stockapp/images/image1.png)
