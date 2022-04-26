@@ -9,5 +9,7 @@
 - Youtube Trending Videos Scrapping
 - Reddit API
 - Stock API
+- Stock Finder App
+- Wordle game
 
  
