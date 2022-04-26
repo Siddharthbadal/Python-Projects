@@ -5,6 +5,7 @@ CLI Wordle game
 Letter is in the word: Yellow
 Letter is in the position: Green
 
+
 Main Modules in the code:
     -   wordly.pu : Main class allows different methors applicable in the program
     -   app.py : a class to find the charcters positions in the function
