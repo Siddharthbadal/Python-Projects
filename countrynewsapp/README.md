@@ -1,6 +1,7 @@
 #### Country News APP
 
-Modules use
+Modules used
+
 	-	requests
 	-	pycountry
 	-	streamlit
