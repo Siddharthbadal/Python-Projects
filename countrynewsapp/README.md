@@ -1,10 +1,10 @@
 #### Country News APP
 
-Modules used
+Modules use
 	-	requests
 	-	pycountry
-	-  streamlit
-	-  news api
+	-	streamlit
+	-	news api
 	
 
 App fetches data from news api. User can enter the country name and select news category.
