@@ -11,6 +11,5 @@ Commands:
 OUTPUT:
 	Genrate branding snippet for ..lemon tea
 	Lemon Tea: A Refreshing Tea with a Hint of Lemon...
-
 	Genrate branding keywords for ..lemon tea
-	['Lemon Tea', ' ', 'Tea', ' ', 'Lemon', ' ', 'Citrus', ' ', 'Soothing', ' ', 'Refreshing', ' ', 'Detoxing']
+	'Lemon Tea', ' ', 'Tea', ' ', 'Lemon', ' ', 'Citrus', ' ', 'Soothing', ' ', 'Refreshing', ' ', 'Detoxing'
