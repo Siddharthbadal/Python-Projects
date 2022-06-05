@@ -7,7 +7,7 @@ App allows user to enter to a blog url to find the related ads and keywords.
 	
 Modules Used:
 
-	- NTLK
+	- NLTK
 	- django
 	- pandas
         - request
