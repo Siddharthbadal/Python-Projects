@@ -10,7 +10,7 @@ Modules Used:
 	- NLTK
 	- django
 	- pandas
-        - request
+	- request
         - beautifulSoup
 	
 ![img](https://github.com/Siddharthbadal/Python-Projects/blob/main/adsearch/img/one.png)
