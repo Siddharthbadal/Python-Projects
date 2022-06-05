@@ -1,10 +1,12 @@
 ### Ads Finder with NLP
 
 App allows user to enter to a blog url to find the related ads and keywords.
+
 	-   Shows keywords
-	-   Shows erelated ads with images and URL
+	-   Shows related ads with images and URL
 	
 Modules Used:
+
 	- NTLK
 	- django
 	- pandas
