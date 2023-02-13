@@ -1,4 +1,4 @@
-A customer cash register project in python using object oriented program.
+A customer cash register project in python using object oriented programming.
 
 Items -> item.py
 
