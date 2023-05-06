@@ -4,6 +4,7 @@
 A complete authentication system in python with hashed password, password restrictions, reading and writing data from a file, error hadling with messages and command line interface.
 
 User can
+
         - Register
 
         - Login
@@ -13,6 +14,7 @@ User can
 
 
 Commands:
+
     Regsiter
         :python main.py register username password1 password2
     
