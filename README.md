@@ -11,5 +11,6 @@
 - Stock API
 - Stock Finder App
 - Wordle game
+- RestAPI
 
  
